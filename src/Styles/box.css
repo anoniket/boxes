@@ -1,0 +1,14 @@
+.flex44{
+    display: flex;
+  flex-wrap: wrap;
+}
+
+
+.box{
+    flex: 1 0 22%; /* explanation below */
+  margin: 5px;
+  height: 100px;
+  width: 50px;
+
+  cursor: pointer;
+}
