@@ -6,7 +6,7 @@ function Infi(){
  
 
     const [bigArr,setBigArr] = useState([]);
-    const [smallArr,setSmallArr] = useState(["Hello"]);
+    const [smallArr,setSmallArr] = useState(["Hello","Hello"]);
    
 
     const fetchMoreData = () => {
